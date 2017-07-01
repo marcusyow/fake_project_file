@@ -2,4 +2,11 @@ This is a test file.
 
 Some more stuff to say.
 
+<<<<<<< HEAD
 Some dummy lines.
+=======
+
+
+Just making this for tutorial purposes.
+
+>>>>>>> foo_feature
